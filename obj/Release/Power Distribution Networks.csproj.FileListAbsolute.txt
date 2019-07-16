@@ -1,0 +1,14 @@
+C:\Users\ADG\source\repos\Power Distribution Networks\Power Distribution Networks\bin\Release\Power Distribution Networks.exe.config
+C:\Users\ADG\source\repos\Power Distribution Networks\Power Distribution Networks\bin\Release\Power Distribution Networks.exe
+C:\Users\ADG\source\repos\Power Distribution Networks\Power Distribution Networks\bin\Release\Power Distribution Networks.pdb
+C:\Users\ADG\source\repos\Power Distribution Networks\Power Distribution Networks\obj\Release\MainWindow.g.cs
+C:\Users\ADG\source\repos\Power Distribution Networks\Power Distribution Networks\obj\Release\App.g.cs
+C:\Users\ADG\source\repos\Power Distribution Networks\Power Distribution Networks\obj\Release\Power Distribution Networks_MarkupCompile.cache
+C:\Users\ADG\source\repos\Power Distribution Networks\Power Distribution Networks\obj\Release\Power Distribution Networks_MarkupCompile.lref
+C:\Users\ADG\source\repos\Power Distribution Networks\Power Distribution Networks\obj\Release\MainWindow.baml
+C:\Users\ADG\source\repos\Power Distribution Networks\Power Distribution Networks\obj\Release\Power Distribution Networks.g.resources
+C:\Users\ADG\source\repos\Power Distribution Networks\Power Distribution Networks\obj\Release\Power_Distribution_Networks.Properties.Resources.resources
+C:\Users\ADG\source\repos\Power Distribution Networks\Power Distribution Networks\obj\Release\Power Distribution Networks.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\Power Distribution Networks\Power Distribution Networks\obj\Release\Power Distribution Networks.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\Power Distribution Networks\Power Distribution Networks\obj\Release\Power Distribution Networks.exe
+C:\Users\ADG\source\repos\Power Distribution Networks\Power Distribution Networks\obj\Release\Power Distribution Networks.pdb
