@@ -12,4 +12,4 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 
 ![image](SigrityCertificate.png)
 
-![image](PowerElectronics.png)
+![image](PowerElectronics.jpg)
