@@ -13,7 +13,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ![image](AnsysSIWaveDemoBoard.png)
 
 ![image](SigrityCertificate.png)
-![image](SigrityPI.png)
 
 
 ![image](PowerElectronics.jpg)
