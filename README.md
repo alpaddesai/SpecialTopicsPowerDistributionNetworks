@@ -30,6 +30,12 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Industry level design tools and power integrity analysis
 ![image](IndustryLevelPowerIntegrityAnalysis.png)
 
+## On chip decoupling capacitors
+![image](OnChipDecouplingCapacitors.png)
+
+## References
+![image](References.png)
+
 ## SIWave Demo Board
 ![image](AnsysSIWaveDemoBoard.png)
 
