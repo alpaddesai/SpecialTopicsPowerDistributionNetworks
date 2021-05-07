@@ -32,6 +32,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 
 ## On chip decoupling capacitors
 ![image](OnChipDecouplingCapacitors.png)
+![image](PDNAnalysis.png)
 
 ## References
 ![image](References.png)
