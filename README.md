@@ -46,6 +46,9 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Sigrity PI
 ![image](SigrityPI.png)
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
+
 ## Interest
 ![image](image1.png)
 ![image](ter_image.png)
