@@ -56,4 +56,4 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ![image](image1.png)
 ![image](ter_image.png)
 
-Additional details reference : https://github.com/alpaddesai/HardwareEngineeringLab4-  and https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea
+Additional details reference : https://github.com/alpaddesai/HardwareEngineeringLab4-  
