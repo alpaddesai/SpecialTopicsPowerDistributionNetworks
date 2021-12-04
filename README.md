@@ -52,8 +52,4 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-## Interest
-![image](image1.png)
-![image](ter_image.png)
-
 Additional details reference : https://github.com/alpaddesai/HardwareEngineeringLab4-  
