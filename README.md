@@ -52,6 +52,9 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Admission letter
 ![image](admissionletter.jpg)
 
+## GMAT exam
+![image](GMATImage5.jpg)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
