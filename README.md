@@ -1,5 +1,6 @@
-# Power Distribution Networks 2021
+# Power Distribution Networks 
 
+# 11/2021
 The project provides an introduction to power distribution networks. Confidential information is not displayed. 
 
 Please download the executable in https://github.com/alpaddesai/PowerDistributionNetworks/releases for details. 
