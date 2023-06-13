@@ -41,9 +41,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ### Sigrity Power DC
 ![image](SigrityCertificate.png)
 
-## Sigrity PI
-![image](SigrityPI.png)
-
 ## Simulations
 ![image](SimulationsPerformanceMetrics.jpg)
 
